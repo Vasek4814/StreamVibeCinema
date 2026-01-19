@@ -1,0 +1,30 @@
+.nav {
+  margin-top: 30px;
+  margin-bottom: 23px;
+
+}
+
+.navUl {
+  display: flex;
+  gap: 30px;
+  border: 1px solid rgba(191, 191, 191, 0.5);
+  border-radius: 8px;
+
+
+}
+.navLink {
+  font-family: 'Manrope', sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  text-decoration: none;
+  margin: 14px 24px;
+  color: rgba(191, 191, 191, 0.5);
+}
+.navLink:hover {
+  color: #BFBFBF;
+  transition: 0.7s;
+}
+.headerNav {
+  width: 590px;
+  height: 75px;
+}
