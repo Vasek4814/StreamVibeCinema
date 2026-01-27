@@ -1,0 +1,7 @@
+.icon {
+  width: 56px;
+  height: 56px;
+}
+.rigth {
+  transform: rotate(180deg);
+}

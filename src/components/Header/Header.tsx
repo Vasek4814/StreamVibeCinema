@@ -5,7 +5,6 @@ import styles from './Hedaer.module.css'
 
 
 export function Header() {
-  console.log(styles)
   return (
     <header className={styles.header}>
       <Logo/>

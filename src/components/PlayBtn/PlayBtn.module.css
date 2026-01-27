@@ -1,0 +1,22 @@
+.playBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 157px;
+  height: 56px;
+  background: #E50000;
+  text-decoration: none;
+  border-radius: 8px;
+  border: none;
+}
+.playIcon {
+  margin-right: 4px;
+  width: 28px;
+  height: 28px;
+}
+.textBtn {
+  font-family: 'Manrop', sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  color: #FFFFFF;
+}
