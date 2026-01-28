@@ -20,8 +20,7 @@ export const ArrowBtn: React.FC<Props> = ({ onClick, direction = "left" }) => {
           })}
           src={left}
           alt="Icon"
-          width="28"
-          height="28"
+          width="20"
           loading="lazy"
         />
       </Button>

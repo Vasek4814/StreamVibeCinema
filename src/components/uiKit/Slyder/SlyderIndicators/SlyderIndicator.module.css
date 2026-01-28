@@ -1,0 +1,11 @@
+.indicator {
+display: flex;
+  gap: 5px;
+  margin: auto 0;
+  height: 4px;
+}
+.SlyderIcon {
+  width: 100%;
+  height: 4px;
+  background-color: black;
+}
