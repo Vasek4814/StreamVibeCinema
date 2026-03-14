@@ -1,0 +1,11 @@
+.CardFilmHeder {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+.h2 {
+  font-family: 'Manrope', sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  color: #FFFFFF;
+}

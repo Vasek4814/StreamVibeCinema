@@ -1,0 +1,17 @@
+.cardImg {
+
+}
+.imgContainerUrl {
+display: flex;
+  margin-bottom: 1px
+}
+.nameCategories {
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+  font-family: 'Manrope', sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-top: 5px;
+}
